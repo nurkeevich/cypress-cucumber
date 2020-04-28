@@ -1,0 +1,5 @@
+{
+    "pluginsFile": "./cypress/plugins/index.js",
+    "testFiles": "**/*.feature",
+    "integrationFolder": "./cypress/support/step_definitions"
+}
