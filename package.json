@@ -13,6 +13,6 @@
     },
     "cypress-cucumber-preprocessor": {
       "nonGlobalStepDefinitions": false,
-      "stepDefinitions": "./cypress/integration"
+      "stepDefinitions": "./cypress/support/step_definitions"
     }
 }
